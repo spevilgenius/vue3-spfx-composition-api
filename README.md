@@ -1,4 +1,4 @@
-# Vue 3 + SPFX 1.13.1 + Typescript + Vite
+# Vue 3 Composition API + SPFX + Typescript + Vite + Bootstrap Vue Next
 
 ## Sample Vue 3 app built using Vite that is embedded within an SPFX 1.13.1 webpart
 
