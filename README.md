@@ -1,6 +1,6 @@
 # Vue 3 Composition API + SPFX + Typescript + Vite + Bootstrap Vue Next
 
-## Sample Vue 3 app built using Vite that is embedded within an SPFX 1.13.1 webpart
+## Sample Vue 3 app built using Vite that is embedded within an SPFX webpart
 
 The [Microsoft SharePoint Framework (SPFX)](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment) v1.13.1 does not have an option for Vue in their [Yeoman generator](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/toolchain/scaffolding-projects-using-yeoman-sharepoint-generator). The [PnP/SPFX generator](https://pnp.github.io/generator-spfx/#spfx-generator-version) has not been updated to support Vue 3 nor SPFX 1.13.1. This project serves as a brute-force sample of how you could develop in Vue 3 (and optionally Vite as your build environment) and then incorporate it into the latest version of SPFX webparts.
 
